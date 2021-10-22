@@ -240,6 +240,16 @@ span {
 .react-bar {
   width: 80%;
 }
+/* .php-bar{
+  width: 45%;
+}
+.python-django-bar {
+  width: 50%;
+}
+.Laravel-bar {
+  width: 30%;
+} */
+
 .services-content {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, auto));
