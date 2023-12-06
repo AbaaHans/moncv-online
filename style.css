@@ -240,15 +240,14 @@ span {
 .react-bar {
   width: 80%;
 }
-/* .php-bar{
-  width: 45%;
+ .php-bar{
+  width: 58%;
 }
 .python-django-bar {
   width: 50%;
 }
-.Laravel-bar {
-  width: 30%;
-} */
+.symfony-bar {
+  width: 40%;
 
 .services-content {
   display: grid;
