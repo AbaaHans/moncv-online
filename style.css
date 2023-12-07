@@ -229,16 +229,16 @@ span {
   border-radius: 0.5rem;
 }
 .html-bar {
-  width: 94%;
-}
-.css-bar {
-  width: 84%;
-}
-.js-bar {
   width: 74%;
 }
+.css-bar {
+  width: 54%;
+}
+.js-bar {
+  width: 48%;
+}
 .react-bar {
-  width: 80%;
+  width: 40%;
 }
 /* .python-django-bar {
   width: 50%;
